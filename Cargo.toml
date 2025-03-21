@@ -1,0 +1,5 @@
+[package]
+name = "ai-no-jimaku-gumi"
+version = "0.1.0"
+edition = "2021"
+description = "AI no jimaku gumi (AIの字幕組), a subtitle maker for video using AI."
