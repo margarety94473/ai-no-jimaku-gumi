@@ -6,3 +6,4 @@
 - chore: clarify the setup steps
 - chore: clarify the setup steps
 - chore: clarify the setup steps
+- docs: link the usage section
