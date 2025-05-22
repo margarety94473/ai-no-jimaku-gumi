@@ -6,3 +6,4 @@ description = "AI no jimaku gumi (AIの字幕組), a subtitle maker for video us
 # drop an unused branch
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# guard against empty input
