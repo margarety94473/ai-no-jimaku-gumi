@@ -8,3 +8,4 @@ description = "AI no jimaku gumi (AIの字幕組), a subtitle maker for video us
 # keep defaults in sync with the manifest
 # guard against empty input
 # clarify the control flow
+# avoid re-reading the config on every call
